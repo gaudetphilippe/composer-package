@@ -1,0 +1,10 @@
+{
+    "name": "philippe/composer-package",
+    "authors": [
+        {
+            "name": "gaudetphilippe",
+            "email": "gaudet.philippe@gmail.com"
+        }
+    ],
+    "require": {}
+}
